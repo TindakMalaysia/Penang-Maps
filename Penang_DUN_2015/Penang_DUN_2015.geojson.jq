@@ -15022,8 +15022,8 @@
         "KodDUN": "10",
         "Parliament": "PERMATANG PAUH",
         "DUN": "SEBERANG JAYA",
-        "GE13_Voter": 28335,
-        "2015_Q3_Vo": 29254
+        "GE13_Voter": 29964,
+        "2015_Q3_Vo": 31127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28798,8 +28798,8 @@
         "KodDUN": "37",
         "Parliament": "BAYAN BARU",
         "DUN": "BATU MAUNG",
-        "GE13_Voter": 22521,
-        "2015_Q3_Vo": 23749
+        "GE13_Voter": 28946,
+        "2015_Q3_Vo": 30506
       },
       "geometry": {
         "type": "MultiPolygon",
